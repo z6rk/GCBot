@@ -1,0 +1,6 @@
+discord
+colorama
+requests
+uuid
+praw
+aiohttp
