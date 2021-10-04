@@ -1,8 +1,8 @@
-# GCBot
-Simple GC bot in discord.py.
+## GCBot
+__Simple GC bot in discord.py.__
 
-Open source gc bot, to run it put the USER token into config.json, add the user account to the group chat and then you know what to do. You can also run this on replit but youll have to add uptimerobot stuff so it doesnt fall asleep. Dont skid this or ill kidnap your grandparents.
+Open source gc bot, to run it put the USER token into config.json open console and type in "cd {the path the gcbot folder is in}, type pip install -r requirements.txt and then add the user account to the group chat, run the thing and ur done. You can also run this on replit but youll have to add uptimerobot stuff so it doesnt fall asleep. Dont skid this or ill kidnap your grandparents.
 
-Remember this is just a experiment so its not optimized and it kinda sucks lmfao 
+__Remember this is just a experiment so its not optimized and it kinda sucks lmfao __
 
-credits: mert.#1337 on cord
+__credits: mert.#1337 on cord__
