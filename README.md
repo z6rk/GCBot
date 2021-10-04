@@ -1,0 +1,2 @@
+# GCBot
+Simple GC bot.
